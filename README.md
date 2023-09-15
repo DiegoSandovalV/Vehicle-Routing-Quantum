@@ -17,6 +17,7 @@ Friday 15, September 2023
 | Sergio Garnica González              | A01704025 |
 | Ricardo Adolfo Fernández Alvarado    | A01704813 |
 | Carlos Rodrigo Salguero Alcántara    | A00833341 |
+| Daniel Sebastian Cajas Morales       | A01708637 |
 
 ## Description
 
