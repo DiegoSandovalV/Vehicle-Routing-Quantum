@@ -59,4 +59,4 @@ The initial graph for the problem is represented as a complete graph, where each
 
 The solution is shown as an optimize graph, where the edges represent the shortest path between two cities. Each color represents the path a truck takes for the whole fleet to deliver the packages. 
 
-![Optimized Graph](https://github.com/DiegoSandovalV/Vehicle-Routing-Quantum/blob/main/Assets/Screenshot%202023-09-15%20114044.png)
+![Optimized Graph](/Assets/Solution.png)
