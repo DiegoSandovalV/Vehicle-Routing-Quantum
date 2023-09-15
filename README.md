@@ -53,7 +53,7 @@ Find the shortest total trip length for all trucks to minimize total cost / time
 
 The initial graph for the problem is represented as a complete graph, where each node represents a city and edges represent the distance between two cities. 
 
-![Initial Graph](./Assets/Screenshot 2023-09-15 113819.png)
+![Initial Graph](Screenshot%202023-09-15%20113819.png)
 
 ### Graph Solution
 
