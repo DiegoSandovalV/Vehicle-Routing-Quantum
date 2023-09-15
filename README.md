@@ -24,6 +24,8 @@ Utilizing Qiskit, Jupyter Notebook, and Python, we have crafted a solution for t
 
 ## Challenge 
 
+![Banner](/Assets/robson-hatsukami-morgan-NKr0qBAkU4s-unsplash.jpg)
+
 A delivery company has a fleet of trucks and a set of customers in different locations to deliver packages.
 
 ### Objectives
