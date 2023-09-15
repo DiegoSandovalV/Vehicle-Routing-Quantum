@@ -40,14 +40,14 @@ Find the shortest total trip length for all trucks to minimize total cost / time
 
 ## Dependencies
 
-- [qiskit](https://qiskit.org/) (version 0.44.1) - IBM's Quantum Computing Framework
+- [qiskit](https://qiskit.org/) (version 0.44.1) - IBM's Quantum Computing Framework.
 - [qiskit_ibm_provider](https://qiskit.org/documentation/apidoc/ibm_provider.html) - IBM's Quantum Computing Provider for Qiskit 
 - [qiskit.visualization](https://qiskit.org/documentation/apidoc/visualization.html) - Qiskit's Visualization Tools for Quantum Circuits
 - [networkx](https://networkx.org/) - (version 3.1) Graph Theory Library
 - [numpy](https://numpy.org/) - (version 1.25) Numerical Python Library
-- [matplotlib](https://matplotlib.org/) - (version 3.8.0) Python Plotting Library
-- Python 3.10.0
-- Jupyter Notebook 6.4.0
+- [matplotlib](ht9tps://matplotlib.org/) - (version 3.8.0) Python Plotting Library 
+- [Python 3.10.0](https://www.python.org/downloads/release/python-3100/) - Programming language used 
+- [Jupyter Notebook 6.4.0](https://jupyter.org/) - Is an open-source web application that allows creation of live code, equations, visualization, and narrative text.
 
 ## Solution
 
