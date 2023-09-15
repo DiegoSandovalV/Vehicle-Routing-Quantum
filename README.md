@@ -53,10 +53,10 @@ Find the shortest total trip length for all trucks to minimize total cost / time
 
 The initial graph for the problem is represented as a complete graph, where each node represents a city and edges represent the distance between two cities. 
 
-![Initial Graph](Screenshot%202023-09-15%20113819.png)
+![Initial Graph](https://github.com/DiegoSandovalV/Vehicle-Routing-Quantum/blob/main/Assets/Screenshot%202023-09-15%20113819.png)
 
 ### Graph Solution
 
 The solution is shown as an optimize graph, where the edges represent the shortest path between two cities. Each color represents the path a truck takes for the whole fleet to deliver the packages. 
 
-![Optimized Graph]()
+![Optimized Graph](https://github.com/DiegoSandovalV/Vehicle-Routing-Quantum/blob/main/Assets/Screenshot%202023-09-15%20114044.png)
